@@ -9,7 +9,7 @@ Dashboard ini adalah aplikasi interaktif yang dibuat dengan Streamlit untuk meng
 
 ## Setup Environment (VSCode & Python)
 ### Persyaratan
-- Python 3.9 atau versi lebih baru
+- Python 3.12 atau versi lebih baru
 - Visual Studio Code (VSCode)
 
 ### Langkah-langkah
